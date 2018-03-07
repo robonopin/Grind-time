@@ -1,4 +1,4 @@
-package com.example.sim.latechproj;
+package com.example.sim.GrindTime;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;

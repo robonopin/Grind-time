@@ -1,5 +1,7 @@
 package com.grindm.sim.grindmode;
 
+package com.example.sim.latechproj;
+
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
@@ -20,7 +22,7 @@ public class Grindmode_act2 extends AppCompatActivity {
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
+                Snackbar.make(view, "Companies","People"Snackbar.LENGTH_LONG)
                         .setAction("Action", null).show();
             }
         });
